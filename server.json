@@ -1,0 +1,109 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "name": "Arthur Henrique",
+            "turma": 5
+        },
+        {
+            "id": 2,
+            "name": "Ana Lira",
+            "turma": 2
+        },
+        {
+            "id": 3,
+            "name": "Beatriz Júlia",
+            "turma": 2
+        },
+        {
+            "id": 4,
+            "name": "Carol Mendes",
+            "turma": 1
+        },
+        {
+            "id": 5,
+            "name": "Carlos Vini",
+            "turma": 2
+        },
+        {
+            "id": 6,
+            "name": "Danilo Guedes",
+            "turma": 8
+        },
+        {
+            "id": 7,
+            "name": "Danilo Pedrosa",
+            "turma": 6
+        },
+        {
+            "id": 8,
+            "name": "Eduardo Lucas",
+            "turma": 7
+        },
+        {
+            "id": 9,
+            "name": "Felicio Santos",
+            "turma": 10
+        },
+        {
+            "id": 10,
+            "name": "Felipe Lima",
+            "turma": 3
+        },
+        {
+            "id": 11,
+            "name": "Fernando Matheus",
+            "turma": 8
+        },
+        {
+            "id": 12,
+            "name": "Gabriel Melo",
+            "turma": 6
+        },
+        {
+            "id": 13,
+            "name": "Gabriel Lara",
+            "turma": 1
+        },
+        {
+            "id": 14,
+            "name": "Gabriel Valença",
+            "turma": 5
+        },
+        {
+            "id": 15,
+            "name": "Guilherme Belmiro",
+            "turma": 1
+        },
+        {
+            "id": 16,
+            "name": "Leide Santos",
+            "turma": 3
+        },
+        {
+            "id": 17,
+            "name": "Nauany Gabrielly",
+            "turma": 7
+        },
+        {
+            "id": 18,
+            "name": "Nani Martins",
+            "turma": 4
+        },
+        {
+            "id": 19,
+            "name": "Nilton Pereira",
+            "turma": 9
+        },
+        {
+            "id": 20,
+            "name": "Paulo Filho",
+            "turma": 1
+        },
+        {
+            "id": 21,
+            "name": "Pedro Paiva",
+            "turma": 2
+        }
+    ]
+}
